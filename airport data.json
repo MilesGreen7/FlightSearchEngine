@@ -1,0 +1,907 @@
+{
+    "Asia": [
+        {
+            "country": "Afghanistan",
+            "airports": [
+                {
+                    "airport_code": "KBL",
+                    "estimated_yearly_passengers": 4.0,
+                    "location": {
+                        "longitude": 69.212328,
+                        "latitude": 34.565853
+                    }
+                },
+                {
+                    "airport_code": "MZR",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 67.209678,
+                        "latitude": 36.706914
+                    }
+                },
+                {
+                    "airport_code": "KDH",
+                    "estimated_yearly_passengers": 1.98,
+                    "location": {
+                        "longitude": 65.8478,
+                        "latitude": 31.505875
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Azerbaijan",
+            "airports": [
+                {
+                    "airport_code": "GYD",
+                    "estimated_yearly_passengers": 7.537,
+                    "location": {
+                        "longitude": 50.045429,
+                        "latitude": 40.467351
+                    }
+                },
+                {
+                    "airport_code": "NAJ",
+                    "estimated_yearly_passengers": 0.526,
+                    "location": {
+                        "longitude": 45.457461,
+                        "latitude": 39.187406
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Bahrain",
+            "airports": [
+                {
+                    "airport_code": "BAH",
+                    "estimated_yearly_passengers": 9.4,
+                    "location": {
+                        "longitude": 50.63361,
+                        "latitude": 26.270834
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Bangladesh",
+            "airports": [
+                {
+                    "airport_code": "DAC",
+                    "estimated_yearly_passengers": 12.5,
+                    "location": {
+                        "longitude": 90.397781,
+                        "latitude": 23.843333
+                    }
+                },
+                {
+                    "airport_code": "CGP",
+                    "estimated_yearly_passengers": 2.5,
+                    "location": {
+                        "longitude": 91.813286,
+                        "latitude": 22.249611
+                    }
+                },
+                {
+                    "airport_code": "ZYL",
+                    "estimated_yearly_passengers": 0.63,
+                    "location": {
+                        "longitude": 91.866783,
+                        "latitude": 24.963242
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Bhutan",
+            "airports": [
+                {
+                    "airport_code": "PBH",
+                    "estimated_yearly_passengers": 0.03,
+                    "location": {
+                        "longitude": 89.424606,
+                        "latitude": 27.403192
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Brunei",
+            "airports": [
+                {
+                    "airport_code": "BWN",
+                    "estimated_yearly_passengers": 1.464,
+                    "location": {
+                        "longitude": 114.928353,
+                        "latitude": 4.9442
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Cambodia",
+            "airports": [
+                {
+                    "airport_code": "PNH",
+                    "estimated_yearly_passengers": 4.75,
+                    "location": {
+                        "longitude": 104.844139,
+                        "latitude": 11.546556
+                    }
+                },
+                {
+                    "airport_code": "SAI",
+                    "estimated_yearly_passengers": 1.3,
+                    "location": {
+                        "longitude": 103.8131,
+                        "latitude": 13.4104
+                    }
+                },
+                {
+                    "airport_code": "KOS",
+                    "estimated_yearly_passengers": 0.8,
+                    "location": {
+                        "longitude": 103.636828,
+                        "latitude": 10.579686
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Iraq",
+            "airports": [
+                {
+                    "airport_code": "BGW",
+                    "estimated_yearly_passengers": 3.4,
+                    "location": {
+                        "longitude": 44.233,
+                        "latitude": 33.2675
+                    }
+                },
+                {
+                    "airport_code": "NJF",
+                    "estimated_yearly_passengers": 2.6,
+                    "location": {
+                        "longitude": 44.40417,
+                        "latitude": 31.98972
+                    }
+                },
+                {
+                    "airport_code": "EBL",
+                    "estimated_yearly_passengers": 2.084,
+                    "location": {
+                        "longitude": 43.96306,
+                        "latitude": 36.2375
+                    }
+                },
+                {
+                    "airport_code": "ISU",
+                    "estimated_yearly_passengers": 1.5,
+                    "location": {
+                        "longitude": 45.31444,
+                        "latitude": 35.56083
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Jordan",
+            "airports": [
+                {
+                    "airport_code": "AMM",
+                    "estimated_yearly_passengers": 8.8,
+                    "location": {
+                        "longitude": 35.993214,
+                        "latitude": 31.722556
+                    }
+                },
+                {
+                    "airport_code": "AQJ",
+                    "estimated_yearly_passengers": 0.3,
+                    "location": {
+                        "longitude": 35.018067,
+                        "latitude": 29.611619
+                    }
+                }
+            ]
+        }
+    ],
+    "Europe": [
+        {
+            "country": "Albania",
+            "airports": [
+                {
+                    "airport_code": "TIA",
+                    "estimated_yearly_passengers": 10.7,
+                    "location": {
+                        "longitude": 19.720561,
+                        "latitude": 41.414742
+                    }
+                },
+                {
+                    "airport_code": "KFZ",
+                    "estimated_yearly_passengers": 0.15,
+                    "location": {
+                        "longitude": 20.415955,
+                        "latitude": 42.035802
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Andorra",
+            "airports": []
+        },
+        {
+            "country": "Belarus",
+            "airports": [
+                {
+                    "airport_code": "MSQ",
+                    "estimated_yearly_passengers": 2.5,
+                    "location": {
+                        "longitude": 28.030731,
+                        "latitude": 53.882469
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "airports": [
+                {
+                    "airport_code": "SJJ",
+                    "estimated_yearly_passengers": 1.822,
+                    "location": {
+                        "longitude": 18.331467,
+                        "latitude": 43.824583
+                    }
+                },
+                {
+                    "airport_code": "TZL",
+                    "estimated_yearly_passengers": 0.582,
+                    "location": {
+                        "longitude": 18.724783,
+                        "latitude": 44.458656
+                    }
+                },
+                {
+                    "airport_code": "BNX",
+                    "estimated_yearly_passengers": 0.46,
+                    "location": {
+                        "longitude": 17.297501,
+                        "latitude": 44.941444
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Cyprus",
+            "airports": [
+                {
+                    "airport_code": "LCA",
+                    "estimated_yearly_passengers": 8.66,
+                    "location": {
+                        "longitude": 33.623756,
+                        "latitude": 34.873394
+                    }
+                },
+                {
+                    "airport_code": "PFO",
+                    "estimated_yearly_passengers": 3.63,
+                    "location": {
+                        "longitude": 32.485731,
+                        "latitude": 34.718039
+                    }
+                },
+                {
+                    "airport_code": "ECN",
+                    "estimated_yearly_passengers": 3.99,
+                    "location": {
+                        "longitude": 33.5037,
+                        "latitude": 35.1473
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Czech Republic",
+            "airports": [
+                {
+                    "airport_code": "PRG",
+                    "estimated_yearly_passengers": 16.354,
+                    "location": {
+                        "longitude": 14.26,
+                        "latitude": 50.100833
+                    }
+                },
+                {
+                    "airport_code": "BRQ",
+                    "estimated_yearly_passengers": 0.749,
+                    "location": {
+                        "longitude": 16.694433,
+                        "latitude": 49.151269
+                    }
+                },
+                {
+                    "airport_code": "OSR",
+                    "estimated_yearly_passengers": 0.494,
+                    "location": {
+                        "longitude": 18.111053,
+                        "latitude": 49.696292
+                    }
+                }
+            ]
+        }
+    ],
+    "Africa": [
+        {
+            "country": "Angola",
+            "airports": [
+                {
+                    "airport_code": "NBJ",
+                    "estimated_yearly_passengers": 5.6,
+                    "location": {
+                        "longitude": 13.499,
+                        "latitude": -9.0505
+                    }
+                },
+                {
+                    "airport_code": "LAD",
+                    "estimated_yearly_passengers": 5.6,
+                    "location": {
+                        "longitude": 13.231178,
+                        "latitude": -8.858375
+                    }
+                },
+                {
+                    "airport_code": "CBT",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 13.4902,
+                        "latitude": -12.4938
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Benin",
+            "airports": [
+                {
+                    "airport_code": "COO",
+                    "estimated_yearly_passengers": 0.555,
+                    "location": {
+                        "longitude": 2.384353,
+                        "latitude": 6.357228
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Botswana",
+            "airports": [
+                {
+                    "airport_code": "GBE",
+                    "estimated_yearly_passengers": 0.366,
+                    "location": {
+                        "longitude": 25.918208,
+                        "latitude": -24.555225
+                    }
+                },
+                {
+                    "airport_code": "MUB",
+                    "estimated_yearly_passengers": 0.289,
+                    "location": {
+                        "longitude": 23.431086,
+                        "latitude": -19.972564
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Burkina Faso",
+            "airports": [
+                {
+                    "airport_code": "OUA",
+                    "estimated_yearly_passengers": 0.245,
+                    "location": {
+                        "longitude": -1.512417,
+                        "latitude": 12.353194
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Burundi",
+            "airports": [
+                {
+                    "airport_code": "BJM",
+                    "estimated_yearly_passengers": 0.131,
+                    "location": {
+                        "longitude": 29.318519,
+                        "latitude": -3.324019
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Cape Verde",
+            "airports": [
+                {
+                    "airport_code": "SID",
+                    "estimated_yearly_passengers": 1.193,
+                    "location": {
+                        "longitude": -22.949,
+                        "latitude": 16.742042
+                    }
+                },
+                {
+                    "airport_code": "RAI",
+                    "estimated_yearly_passengers": 0.662,
+                    "location": {
+                        "longitude": -23.484708,
+                        "latitude": 14.941119
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Cameroon",
+            "airports": [
+                {
+                    "airport_code": "DLA",
+                    "estimated_yearly_passengers": 1.5,
+                    "location": {
+                        "longitude": 9.719481,
+                        "latitude": 4.006081
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Central African Republic",
+            "airports": [
+                {
+                    "airport_code": "BGF",
+                    "estimated_yearly_passengers": 0.066,
+                    "location": {
+                        "longitude": 18.518786,
+                        "latitude": 4.398475
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Chad",
+            "airports": [
+                {
+                    "airport_code": "NDJ",
+                    "estimated_yearly_passengers": 0.219,
+                    "location": {
+                        "longitude": 15.033961,
+                        "latitude": 12.133719
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Comoros",
+            "airports": [
+                {
+                    "airport_code": "HAH",
+                    "estimated_yearly_passengers": 0.16,
+                    "location": {
+                        "longitude": 43.27185,
+                        "latitude": -11.533661
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Democratic Republic of the Congo",
+            "airports": [
+                {
+                    "airport_code": "FIH",
+                    "estimated_yearly_passengers": 0.8,
+                    "location": {
+                        "longitude": 15.444489,
+                        "latitude": -4.385736
+                    }
+                },
+                {
+                    "airport_code": "FBM",
+                    "estimated_yearly_passengers": 0.2,
+                    "location": {
+                        "longitude": 27.530889,
+                        "latitude": -11.591178
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Republic of the Congo",
+            "airports": [
+                {
+                    "airport_code": "BZV",
+                    "estimated_yearly_passengers": 0.7,
+                    "location": {
+                        "longitude": 15.253031,
+                        "latitude": -4.2517
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Ivory Coast",
+            "airports": [
+                {
+                    "airport_code": "ABJ",
+                    "estimated_yearly_passengers": 2.5,
+                    "location": {
+                        "longitude": -3.925875,
+                        "latitude": 5.26125
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Djibouti",
+            "airports": [
+                {
+                    "airport_code": "JIB",
+                    "estimated_yearly_passengers": 0.25,
+                    "location": {
+                        "longitude": 43.159481,
+                        "latitude": 11.547331
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Egypt",
+            "airports": [
+                {
+                    "airport_code": "CAI",
+                    "estimated_yearly_passengers": 28.8,
+                    "location": {
+                        "longitude": 31.405556,
+                        "latitude": 30.121944
+                    }
+                },
+                {
+                    "airport_code": "HRG",
+                    "estimated_yearly_passengers": 8.7,
+                    "location": {
+                        "longitude": 33.800981,
+                        "latitude": 27.178567
+                    }
+                },
+                {
+                    "airport_code": "SSH",
+                    "estimated_yearly_passengers": 5.9,
+                    "location": {
+                        "longitude": 34.394944,
+                        "latitude": 27.977319
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Equatorial Guinea",
+            "airports": [
+                {
+                    "airport_code": "SSG",
+                    "estimated_yearly_passengers": 0.237,
+                    "location": {
+                        "longitude": 8.708717,
+                        "latitude": 3.755267
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Eritrea",
+            "airports": [
+                {
+                    "airport_code": "ASM",
+                    "estimated_yearly_passengers": 0.137,
+                    "location": {
+                        "longitude": 38.910667,
+                        "latitude": 15.291853
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Eswatini",
+            "airports": [
+                {
+                    "airport_code": "SHO",
+                    "estimated_yearly_passengers": 0.06,
+                    "location": {
+                        "longitude": 31.7225,
+                        "latitude": 26.3487
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Ethiopia",
+            "airports": [
+                {
+                    "airport_code": "ADD",
+                    "estimated_yearly_passengers": 12.1,
+                    "location": {
+                        "longitude": 38.799319,
+                        "latitude": 8.977889
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Gabon",
+            "airports": [
+                {
+                    "airport_code": "LBV",
+                    "estimated_yearly_passengers": 0.721,
+                    "location": {
+                        "longitude": 9.412283,
+                        "latitude": 0.4586
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Gambia",
+            "airports": [
+                {
+                    "airport_code": "BJL",
+                    "estimated_yearly_passengers": 0.3,
+                    "location": {
+                        "longitude": -16.652206,
+                        "latitude": 13.337961
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Ghana",
+            "airports": [
+                {
+                    "airport_code": "ACC",
+                    "estimated_yearly_passengers": 3.4,
+                    "location": {
+                        "longitude": -0.167728,
+                        "latitude": 5.604461
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Guinea",
+            "airports": [
+                {
+                    "airport_code": "CKY",
+                    "estimated_yearly_passengers": 0.789,
+                    "location": {
+                        "longitude": -13.611881,
+                        "latitude": 9.576897
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Guinea-Bissau",
+            "airports": [
+                {
+                    "airport_code": "OXB",
+                    "estimated_yearly_passengers": 0.742,
+                    "location": {
+                        "longitude": -15.653467,
+                        "latitude": 11.895014
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Kenya",
+            "airports": [
+                {
+                    "airport_code": "NBO",
+                    "estimated_yearly_passengers": 4.14,
+                    "location": {
+                        "longitude": 36.931264,
+                        "latitude": -1.316617
+                    }
+                }
+            ]
+        }
+    ],
+    "North America": [
+        {
+            "country": "Antigua and Barbuda",
+            "airports": [
+                {
+                    "airport_code": "ANU",
+                    "estimated_yearly_passengers": 0.86,
+                    "location": {
+                        "longitude": -61.792667,
+                        "latitude": 17.136749
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Grenada",
+            "airports": []
+        },
+        {
+            "country": "Bahamas",
+            "airports": [
+                {
+                    "airport_code": "NAS",
+                    "estimated_yearly_passengers": 4.0,
+                    "location": {
+                        "longitude": -77.466231,
+                        "latitude": 25.038958
+                    }
+                },
+                {
+                    "airport_code": "MHH",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -77.083472,
+                        "latitude": 26.511406
+                    }
+                },
+                {
+                    "airport_code": "FPO",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -78.695553,
+                        "latitude": 26.558686
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Cuba",
+            "airports": [
+                {
+                    "airport_code": "HAV",
+                    "estimated_yearly_passengers": 9.6,
+                    "location": {
+                        "longitude": -82.409086,
+                        "latitude": 22.989153
+                    }
+                },
+                {
+                    "airport_code": "VRA",
+                    "estimated_yearly_passengers": 2.5,
+                    "location": {
+                        "longitude": -81.435322,
+                        "latitude": 23.034542
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Dominica",
+            "airports": [
+                {
+                    "airport_code": "DOM",
+                    "estimated_yearly_passengers": 0.06,
+                    "location": {
+                        "longitude": -61.3,
+                        "latitude": 15.547028
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Haiti",
+            "airports": [
+                {
+                    "airport_code": "PAP",
+                    "estimated_yearly_passengers": 2.0,
+                    "location": {
+                        "longitude": -72.292542,
+                        "latitude": 18.58005
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Jamaica",
+            "airports": [
+                {
+                    "airport_code": "MBJ",
+                    "estimated_yearly_passengers": 5.1,
+                    "location": {
+                        "longitude": -77.913358,
+                        "latitude": 18.503717
+                    }
+                },
+                {
+                    "airport_code": "KIN",
+                    "estimated_yearly_passengers": 1.8,
+                    "location": {
+                        "longitude": -76.7875,
+                        "latitude": 17.935667
+                    }
+                }
+            ]
+        }
+    ],
+    "South America": [
+        {
+            "country": "Bolivia",
+            "airports": [
+                {
+                    "airport_code": "VVI",
+                    "estimated_yearly_passengers": 4.116,
+                    "location": {
+                        "longitude": -63.135364,
+                        "latitude": -17.644756
+                    }
+                },
+                {
+                    "airport_code": "LPB",
+                    "estimated_yearly_passengers": 5.6,
+                    "location": {
+                        "longitude": -68.192256,
+                        "latitude": -16.513339
+                    }
+                },
+                {
+                    "airport_code": "CBB",
+                    "estimated_yearly_passengers": 2.688,
+                    "location": {
+                        "longitude": -66.177114,
+                        "latitude": -17.421058
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Guyana",
+            "airports": [
+                {
+                    "airport_code": "GEO",
+                    "estimated_yearly_passengers": 0.857,
+                    "location": {
+                        "longitude": -58.254119,
+                        "latitude": 6.498553
+                    }
+                }
+            ]
+        }
+    ],
+    "Oceania": [
+        {
+            "country": "Fiji",
+            "airports": [
+                {
+                    "airport_code": "NAN",
+                    "estimated_yearly_passengers": 2.4,
+                    "location": {
+                        "longitude": 177.443822,
+                        "latitude": -17.755019
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Kiribati",
+            "airports": [
+                {
+                    "airport_code": "TRW",
+                    "estimated_yearly_passengers": 0.11,
+                    "location": {
+                        "longitude": 173.147036,
+                        "latitude": 1.381636
+                    }
+                }
+            ]
+        }
+    ]
+}
