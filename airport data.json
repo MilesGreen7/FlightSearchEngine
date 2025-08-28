@@ -204,6 +204,74 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Kuwait",
+            "airports": [
+                {
+                    "airport_code": "KWI",
+                    "estimated_yearly_passengers": 15.4,
+                    "location": {
+                        "longitude": 47.979842,
+                        "latitude": 29.226964
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Kyrgyzstan",
+            "airports": [
+                {
+                    "airport_code": "BSZ",
+                    "estimated_yearly_passengers": 1.55,
+                    "location": {
+                        "longitude": 74.4775,
+                        "latitude": 43.06139
+                    }
+                },
+                {
+                    "airport_code": "OSS",
+                    "estimated_yearly_passengers": 0.92,
+                    "location": {
+                        "longitude": 72.793333,
+                        "latitude": 40.608333
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Laos",
+            "airports": [
+                {
+                    "airport_code": "VTE",
+                    "estimated_yearly_passengers": 1.3,
+                    "location": {
+                        "longitude": 102.563258,
+                        "latitude": 17.988311
+                    }
+                },
+                {
+                    "airport_code": "LPQ",
+                    "estimated_yearly_passengers": 0.3,
+                    "location": {
+                        "longitude": 102.160764,
+                        "latitude": 19.897914
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Lebanon",
+            "airports": [
+                {
+                    "airport_code": "BEY",
+                    "estimated_yearly_passengers": 7.128,
+                    "location": {
+                        "longitude": 35.488389,
+                        "latitude": 33.820931
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -328,6 +396,19 @@
                     "location": {
                         "longitude": 18.111053,
                         "latitude": 49.696292
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Kosovo",
+            "airports": [
+                {
+                    "airport_code": "PRN",
+                    "estimated_yearly_passengers": 4.1,
+                    "location": {
+                        "longitude": 21.03583,
+                        "latitude": 42.57278
                     }
                 }
             ]
@@ -711,6 +792,19 @@
                     "location": {
                         "longitude": 36.931264,
                         "latitude": -1.316617
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Lesotho",
+            "airports": [
+                {
+                    "airport_code": "MSU",
+                    "estimated_yearly_passengers": 0.037,
+                    "location": {
+                        "longitude": 27.552503,
+                        "latitude": -29.462256
                     }
                 }
             ]
