@@ -1039,6 +1039,32 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Namibia",
+            "airports": [
+                {
+                    "airport_code": "WDH",
+                    "estimated_yearly_passengers": 0.8,
+                    "location": {
+                        "longitude": 17.47095,
+                        "latitude": -22.479894
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Niger",
+            "airports": [
+                {
+                    "airport_code": "NIM",
+                    "estimated_yearly_passengers": 0.363,
+                    "location": {
+                        "longitude": 2.183278,
+                        "latitude": 13.482239
+                    }
+                }
+            ]
         }
     ],
     "North America": [
@@ -1250,6 +1276,19 @@
                     "location": {
                         "longitude": 158.208989,
                         "latitude": 6.9851
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Nauru",
+            "airports": [
+                {
+                    "airport_code": "INU",
+                    "estimated_yearly_passengers": 0.03,
+                    "location": {
+                        "longitude": 166.9191,
+                        "latitude": -0.5474583
                     }
                 }
             ]
