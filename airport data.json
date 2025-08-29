@@ -272,6 +272,53 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Maldives",
+            "airports": [
+                {
+                    "airport_code": "MLE",
+                    "estimated_yearly_passengers": 5.6,
+                    "location": {
+                        "longitude": 73.529128,
+                        "latitude": 4.191833
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Mongolia",
+            "airports": [
+                {
+                    "airport_code": "UBN",
+                    "estimated_yearly_passengers": 2.84,
+                    "location": {
+                        "longitude": 106.82139,
+                        "latitude": 47.65139
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Myanmar",
+            "airports": [
+                {
+                    "airport_code": "RGN",
+                    "estimated_yearly_passengers": 2.4,
+                    "location": {
+                        "longitude": 96.133239,
+                        "latitude": 16.907231
+                    }
+                },
+                {
+                    "airport_code": "MDL",
+                    "estimated_yearly_passengers": 2.3,
+                    "location": {
+                        "longitude": 95.977928,
+                        "latitude": 21.702156
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -298,6 +345,10 @@
         },
         {
             "country": "Andorra",
+            "airports": []
+        },
+        {
+            "country": "Liechtenstein",
             "airports": []
         },
         {
@@ -409,6 +460,66 @@
                     "location": {
                         "longitude": 21.03583,
                         "latitude": 42.57278
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Luxembourg",
+            "airports": [
+                {
+                    "airport_code": "LUX",
+                    "estimated_yearly_passengers": 5.148,
+                    "location": {
+                        "longitude": 6.211517,
+                        "latitude": 49.626575
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Malta",
+            "airports": [
+                {
+                    "airport_code": "MLA",
+                    "estimated_yearly_passengers": 7.8,
+                    "location": {
+                        "longitude": 14.477439,
+                        "latitude": 35.857542
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Moldova",
+            "airports": [
+                {
+                    "airport_code": "KIV",
+                    "estimated_yearly_passengers": 4.14,
+                    "location": {
+                        "longitude": 28.930928,
+                        "latitude": 46.927797
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Montenegro",
+            "airports": [
+                {
+                    "airport_code": "TGD",
+                    "estimated_yearly_passengers": 1.758,
+                    "location": {
+                        "longitude": 19.251894,
+                        "latitude": 42.359392
+                    }
+                },
+                {
+                    "airport_code": "TIV",
+                    "estimated_yearly_passengers": 1.124,
+                    "location": {
+                        "longitude": 18.723286,
+                        "latitude": 42.404664
                     }
                 }
             ]
@@ -808,6 +919,126 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Liberia",
+            "airports": [
+                {
+                    "airport_code": "ROB",
+                    "estimated_yearly_passengers": 0.228,
+                    "location": {
+                        "longitude": -10.362272,
+                        "latitude": 6.233789
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Libya",
+            "airports": [
+                {
+                    "airport_code": "MJI",
+                    "estimated_yearly_passengers": 3.0,
+                    "location": {
+                        "longitude": 13.283,
+                        "latitude": 32.9
+                    }
+                },
+                {
+                    "airport_code": "BEN",
+                    "estimated_yearly_passengers": 0.5,
+                    "location": {
+                        "longitude": 20.269472,
+                        "latitude": 32.096786
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Madagascar",
+            "airports": [
+                {
+                    "airport_code": "TNR",
+                    "estimated_yearly_passengers": 1.5,
+                    "location": {
+                        "longitude": 47.478806,
+                        "latitude": -18.79695
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Malawi",
+            "airports": [
+                {
+                    "airport_code": "LLW",
+                    "estimated_yearly_passengers": 0.3,
+                    "location": {
+                        "longitude": 33.781,
+                        "latitude": -13.789378
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Mali",
+            "airports": [
+                {
+                    "airport_code": "BKO",
+                    "estimated_yearly_passengers": 1.2,
+                    "location": {
+                        "longitude": -7.949872,
+                        "latitude": 12.533242
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Mauritania",
+            "airports": [
+                {
+                    "airport_code": "NKC",
+                    "estimated_yearly_passengers": 2.0,
+                    "location": {
+                        "longitude": -15.948031,
+                        "latitude": 18.097772
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Mauritius",
+            "airports": [
+                {
+                    "airport_code": "MRU",
+                    "estimated_yearly_passengers": 1.394,
+                    "location": {
+                        "longitude": 57.6830222,
+                        "latitude": -20.4300278
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Mozambique",
+            "airports": [
+                {
+                    "airport_code": "MPM",
+                    "estimated_yearly_passengers": 1.2,
+                    "location": {
+                        "longitude": 32.572486,
+                        "latitude": -25.920886
+                    }
+                },
+                {
+                    "airport_code": "BEW",
+                    "estimated_yearly_passengers": 0.25,
+                    "location": {
+                        "longitude": 34.907556,
+                        "latitude": -19.796419
+                    }
+                }
+            ]
         }
     ],
     "North America": [
@@ -993,6 +1224,32 @@
                     "location": {
                         "longitude": 173.147036,
                         "latitude": 1.381636
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Marshall Islands",
+            "airports": [
+                {
+                    "airport_code": "MAJ",
+                    "estimated_yearly_passengers": 0.05,
+                    "location": {
+                        "longitude": 171.272022,
+                        "latitude": 7.064758
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Micronesia",
+            "airports": [
+                {
+                    "airport_code": "PNI",
+                    "estimated_yearly_passengers": 0.05,
+                    "location": {
+                        "longitude": 158.208989,
+                        "latitude": 6.9851
                     }
                 }
             ]
