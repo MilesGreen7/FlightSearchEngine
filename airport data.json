@@ -319,6 +319,19 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "North Korea",
+            "airports": [
+                {
+                    "airport_code": "FNJ",
+                    "estimated_yearly_passengers": 1.0,
+                    "location": {
+                        "longitude": 125.67015,
+                        "latitude": 39.224061
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -520,6 +533,27 @@
                     "location": {
                         "longitude": 18.723286,
                         "latitude": 42.404664
+                    }
+                }
+            ]
+        },
+        {
+            "country": "North Macedonia",
+            "airports": [
+                {
+                    "airport_code": "SKP",
+                    "estimated_yearly_passengers": 2.88,
+                    "location": {
+                        "longitude": 21.621381,
+                        "latitude": 41.961622
+                    }
+                },
+                {
+                    "airport_code": "OHD",
+                    "estimated_yearly_passengers": 0.266,
+                    "location": {
+                        "longitude": 20.742325,
+                        "latitude": 41.179956
                     }
                 }
             ]
