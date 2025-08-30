@@ -1065,6 +1065,35 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Nigeria",
+            "airports": [
+                {
+                    "airport_code": "LOS",
+                    "estimated_yearly_passengers": 6.6,
+                    "location": {
+                        "longitude": 3.321156,
+                        "latitude": 6.577369
+                    }
+                },
+                {
+                    "airport_code": "ABV",
+                    "estimated_yearly_passengers": 5.49,
+                    "location": {
+                        "longitude": 7.263172,
+                        "latitude": 9.006792
+                    }
+                },
+                {
+                    "airport_code": "PHC",
+                    "estimated_yearly_passengers": 0.915,
+                    "location": {
+                        "longitude": 6.949594,
+                        "latitude": 5.015494
+                    }
+                }
+            ]
         }
     ],
     "North America": [
