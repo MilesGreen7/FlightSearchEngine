@@ -14,7 +14,6 @@ except FileNotFoundError:
 
 
 while data != '':
-	new_country = ''
 	dataIn = input("\nEnter Continent, Country, code, passengers, longitude, latitude...\n\n")
 	if dataIn == 'q':
 		break
@@ -40,114 +39,27 @@ while data != '':
 		sys.exit()
 
 
+	new_country = ''
 
+	if len(dataIn) >= 6 and len(dataIn) % 4 == 2:
+		i = 2
+		new_country = {
+			"country": dataIn[1],
+			"airports": []
+		}
+		while i < len(dataIn):
+			new_country["airports"].append(
+				{
+					"airport_code": dataIn[i],
+		            "estimated_yearly_passengers": float(dataIn[i+1]),
+		            "location": {
+		                "longitude": float(dataIn[i+2]),
+		                "latitude": float(dataIn[i+3])
+		            }
+				}
+			)
+			i += 4
 
-
-	if len(dataIn) == 6:
-		new_country = {
-		    "country": dataIn[1],
-		    "airports": [
-		        {
-		            "airport_code": dataIn[2],
-		            "estimated_yearly_passengers": float(dataIn[3]),
-		            "location": {
-		                "longitude": float(dataIn[4]),
-		                "latitude": float(dataIn[5])
-		            }
-		        }
-		    ]
-		}
-
-	elif len(dataIn) == 10:
-		new_country = {
-		    "country": dataIn[1],
-		    "airports": [
-		        {
-		            "airport_code": dataIn[2],
-		            "estimated_yearly_passengers": float(dataIn[3]),
-		            "location": {
-		                "longitude": float(dataIn[4]),
-		                "latitude": float(dataIn[5])
-		            }
-		        },
-		        {
-		            "airport_code": dataIn[6],
-		            "estimated_yearly_passengers": float(dataIn[7]),
-		            "location": {
-		                "longitude": float(dataIn[8]),
-		                "latitude": float(dataIn[9])
-		            }
-		        }
-		    ]
-		}
-	elif len(dataIn) == 14:
-		new_country = {
-		    "country": dataIn[1],
-		    "airports": [
-		        {
-		            "airport_code": dataIn[2],
-		            "estimated_yearly_passengers": float(dataIn[3]),
-		            "location": {
-		                "longitude": float(dataIn[4]),
-		                "latitude": float(dataIn[5])
-		            }
-		        },
-		        {
-		            "airport_code": dataIn[6],
-		            "estimated_yearly_passengers": float(dataIn[7]),
-		            "location": {
-		                "longitude": float(dataIn[8]),
-		                "latitude": float(dataIn[9])
-		            }
-		        },
-		        {
-		            "airport_code": dataIn[10],
-		            "estimated_yearly_passengers": float(dataIn[11]),
-		            "location": {
-		                "longitude": float(dataIn[12]),
-		                "latitude": float(dataIn[13])
-		            }
-		        }
-		    ]
-		}
-	elif len(dataIn) == 18:
-		new_country = {
-		    "country": dataIn[1],
-		    "airports": [
-		        {
-		            "airport_code": dataIn[2],
-		            "estimated_yearly_passengers": float(dataIn[3]),
-		            "location": {
-		                "longitude": float(dataIn[4]),
-		                "latitude": float(dataIn[5])
-		            }
-		        },
-		        {
-		            "airport_code": dataIn[6],
-		            "estimated_yearly_passengers": float(dataIn[7]),
-		            "location": {
-		                "longitude": float(dataIn[8]),
-		                "latitude": float(dataIn[9])
-		            }
-		        },
-		        {
-		            "airport_code": dataIn[10],
-		            "estimated_yearly_passengers": float(dataIn[11]),
-		            "location": {
-		                "longitude": float(dataIn[12]),
-		                "latitude": float(dataIn[13])
-		            }
-		        },
-		        {
-		            "airport_code": dataIn[14],
-		            "estimated_yearly_passengers": float(dataIn[15]),
-		            "location": {
-		                "longitude": float(dataIn[16]),
-		                "latitude": float(dataIn[17])
-		            }
-		        }
-		    ]
-		}
 	else:
 		print("Error")
 		break
@@ -156,6 +68,3 @@ while data != '':
 		data[dataIn[0]].append(new_country)
 		with open(json_file, "w") as f:
 			json.dump(data, f, indent=4)
-		
-
-
