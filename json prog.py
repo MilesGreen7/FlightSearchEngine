@@ -38,6 +38,36 @@ while data != '':
 		print('error')
 		sys.exit()
 
+	j = 4
+	northsouth = ['n', 'N', 's', 'S']
+	eastwest = ['e', 'E', 'w', 'W']
+
+	while j + 1 < len(dataIn):
+		dataIn[j] = dataIn[j].replace(" ", "")
+		dataIn[j+1] = dataIn[j+1].replace(" ", "")
+		if dataIn[j][-1] in northsouth and dataIn[j+1][-1] in northsouth:
+			print('error')
+			sys.exit()
+		if dataIn[j][-1] in eastwest and dataIn[j+1][-1] in eastwest:
+			print('error')
+			sys.exit()
+		if dataIn[j][-1] in northsouth and dataIn[j+1][-1] in eastwest:
+			temp = dataIn[j]
+			dataIn[j] = dataIn[j+1]
+			dataIn[j+1] = temp
+		if dataIn[j][-1] in eastwest and dataIn[j+1][-1] in northsouth:
+			if not dataIn[j][-2].isdigit():
+				dataIn[j] = dataIn[j][:len(dataIn[j]) - 2] + dataIn[j][-1]
+			if not dataIn[j+1][-2].isdigit():
+				dataIn[j+1] = dataIn[j+1][:len(dataIn[j+1]) - 2] + dataIn[j+1][-1]
+			if dataIn[j][-1] == 'W' or dataIn[j][-1] == 'w':
+				dataIn[j] = '-' + dataIn[j]
+			if dataIn[j+1][-1] == 'S' or dataIn[j+1][-1] == 's':
+				dataIn[j+1] = '-' + dataIn[j+1]
+			dataIn[j] = dataIn[j][:len(dataIn[j]) - 1]
+			dataIn[j+1] = dataIn[j+1][:len(dataIn[j+1]) - 1]		
+
+		j += 4
 
 	new_country = ''
 
