@@ -30,6 +30,10 @@
             ]
         },
         {
+            "country": "Palestine",
+            "airports": []
+        },
+        {
             "country": "Azerbaijan",
             "airports": [
                 {
@@ -329,6 +333,27 @@
                     "location": {
                         "longitude": 125.67015,
                         "latitude": 39.224061
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Oman",
+            "airports": [
+                {
+                    "airport_code": "MCT",
+                    "estimated_yearly_passengers": 12.9,
+                    "location": {
+                        "longitude": 58.284444,
+                        "latitude": 23.593278
+                    }
+                },
+                {
+                    "airport_code": "SLL",
+                    "estimated_yearly_passengers": 1.32,
+                    "location": {
+                        "longitude": 54.091297,
+                        "latitude": 17.038719
                     }
                 }
             ]
@@ -1352,6 +1377,19 @@
                     "location": {
                         "longitude": 166.9191,
                         "latitude": -0.5474583
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Palau",
+            "airports": [
+                {
+                    "airport_code": "ROR",
+                    "estimated_yearly_passengers": 0.2,
+                    "location": {
+                        "longitude": 134.544278,
+                        "latitude": 7.367303
                     }
                 }
             ]
