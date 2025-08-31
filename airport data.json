@@ -370,6 +370,67 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Saudi Arabia",
+            "airports": [
+                {
+                    "airport_code": "JED",
+                    "estimated_yearly_passengers": 49.0,
+                    "location": {
+                        "longitude": 39.156536,
+                        "latitude": 21.679564
+                    }
+                },
+                {
+                    "airport_code": "RUH",
+                    "estimated_yearly_passengers": 37.6,
+                    "location": {
+                        "longitude": 46.698776,
+                        "latitude": 24.95764
+                    }
+                },
+                {
+                    "airport_code": "DMM",
+                    "estimated_yearly_passengers": 12.8,
+                    "location": {
+                        "longitude": 49.7979,
+                        "latitude": 26.471197
+                    }
+                },
+                {
+                    "airport_code": "MED",
+                    "estimated_yearly_passengers": 10.913,
+                    "location": {
+                        "longitude": 39.705358,
+                        "latitude": 24.552658
+                    }
+                },
+                {
+                    "airport_code": "ELQ",
+                    "estimated_yearly_passengers": 1.1,
+                    "location": {
+                        "longitude": 43.773911,
+                        "latitude": 26.302822
+                    }
+                },
+                {
+                    "airport_code": "AHB",
+                    "estimated_yearly_passengers": 4.368,
+                    "location": {
+                        "longitude": 42.656625,
+                        "latitude": 18.240367
+                    }
+                },
+                {
+                    "airport_code": "TIF",
+                    "estimated_yearly_passengers": 1.0,
+                    "location": {
+                        "longitude": 40.544334,
+                        "latitude": 21.483418
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -396,6 +457,10 @@
         },
         {
             "country": "Andorra",
+            "airports": []
+        },
+        {
+            "country": "San Marino",
             "airports": []
         },
         {
@@ -1187,6 +1252,19 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "airports": [
+                {
+                    "airport_code": "TMS",
+                    "estimated_yearly_passengers": 0.03,
+                    "location": {
+                        "longitude": 6.712153,
+                        "latitude": 0.378175
+                    }
+                }
+            ]
         }
     ],
     "North America": [
@@ -1300,6 +1378,53 @@
                     "location": {
                         "longitude": -76.7875,
                         "latitude": 17.935667
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Saint Kitts and Nevis",
+            "airports": [
+                {
+                    "airport_code": "SKB",
+                    "estimated_yearly_passengers": 0.326,
+                    "location": {
+                        "longitude": -62.718567,
+                        "latitude": 17.311261
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Saint Lucia",
+            "airports": [
+                {
+                    "airport_code": "UVF",
+                    "estimated_yearly_passengers": 0.7,
+                    "location": {
+                        "longitude": -60.952597,
+                        "latitude": 13.733194
+                    }
+                },
+                {
+                    "airport_code": "SLU",
+                    "estimated_yearly_passengers": 0.394,
+                    "location": {
+                        "longitude": -60.992936,
+                        "latitude": 14.020228
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Saint Vincent and the Grenadines",
+            "airports": [
+                {
+                    "airport_code": "SVD",
+                    "estimated_yearly_passengers": 0.611,
+                    "location": {
+                        "longitude": -61.150278,
+                        "latitude": 13.156389
                     }
                 }
             ]
@@ -1437,6 +1562,19 @@
                     "location": {
                         "longitude": 147.22005,
                         "latitude": -9.443383
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Samoa",
+            "airports": [
+                {
+                    "airport_code": "APW",
+                    "estimated_yearly_passengers": 0.5,
+                    "location": {
+                        "longitude": -172.008336,
+                        "latitude": -13.829969
                     }
                 }
             ]
