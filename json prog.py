@@ -60,6 +60,11 @@ while data != '':
 			)
 			i += 4
 
+	elif len(dataIn) == 3 and dataIn[2] == '[]':
+		new_country = {
+			"country": dataIn[1],
+			"airports": []
+		}
 	else:
 		print("Error")
 		break
