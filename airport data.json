@@ -702,6 +702,48 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Slovakia",
+            "airports": [
+                {
+                    "airport_code": "BTS",
+                    "estimated_yearly_passengers": 1.95,
+                    "location": {
+                        "longitude": 17.212733,
+                        "latitude": 48.170086
+                    }
+                },
+                {
+                    "airport_code": "KSC",
+                    "estimated_yearly_passengers": 0.739,
+                    "location": {
+                        "longitude": 21.241156,
+                        "latitude": 48.663031
+                    }
+                },
+                {
+                    "airport_code": "TAT",
+                    "estimated_yearly_passengers": 0.0725,
+                    "location": {
+                        "longitude": 20.241194,
+                        "latitude": 49.073578
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Slovenia",
+            "airports": [
+                {
+                    "airport_code": "LJU",
+                    "estimated_yearly_passengers": 1.44,
+                    "location": {
+                        "longitude": 14.457611,
+                        "latitude": 46.223686
+                    }
+                }
+            ]
         }
     ],
     "Africa": [
@@ -1362,6 +1404,43 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Somalia",
+            "airports": [
+                {
+                    "airport_code": "MGQ",
+                    "estimated_yearly_passengers": 0.4,
+                    "location": {
+                        "longitude": 45.304722,
+                        "latitude": 2.013611
+                    }
+                },
+                {
+                    "airport_code": "HGA",
+                    "estimated_yearly_passengers": 0.3,
+                    "location": {
+                        "longitude": 44.088758,
+                        "latitude": 9.518167
+                    }
+                },
+                {
+                    "airport_code": "BSA",
+                    "estimated_yearly_passengers": 0.15,
+                    "location": {
+                        "longitude": 49.15,
+                        "latitude": 11.275556
+                    }
+                },
+                {
+                    "airport_code": "KMU",
+                    "estimated_yearly_passengers": 0.1,
+                    "location": {
+                        "longitude": 42.459233,
+                        "latitude": -0.377353
+                    }
+                }
+            ]
         }
     ],
     "North America": [
@@ -1672,6 +1751,35 @@
                     "location": {
                         "longitude": -172.008336,
                         "latitude": -13.829969
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Solomon Islands",
+            "airports": [
+                {
+                    "airport_code": "HIR",
+                    "estimated_yearly_passengers": 0.2,
+                    "location": {
+                        "longitude": 160.054789,
+                        "latitude": -9.428
+                    }
+                },
+                {
+                    "airport_code": "MUA",
+                    "estimated_yearly_passengers": 0.04,
+                    "location": {
+                        "longitude": 157.263092,
+                        "latitude": -8.327969
+                    }
+                },
+                {
+                    "airport_code": "GZO",
+                    "estimated_yearly_passengers": 0.03,
+                    "location": {
+                        "longitude": 156.86417,
+                        "latitude": -8.09861
                     }
                 }
             ]
