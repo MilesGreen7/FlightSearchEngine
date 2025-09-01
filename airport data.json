@@ -431,6 +431,19 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Singapore",
+            "airports": [
+                {
+                    "airport_code": "SIN",
+                    "estimated_yearly_passengers": 67.7,
+                    "location": {
+                        "longitude": 103.994378,
+                        "latitude": 1.350164
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -657,6 +670,35 @@
                     "location": {
                         "longitude": 20.742325,
                         "latitude": 41.179956
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Serbia",
+            "airports": [
+                {
+                    "airport_code": "BEG",
+                    "estimated_yearly_passengers": 8.37,
+                    "location": {
+                        "longitude": 20.309139,
+                        "latitude": 44.818444
+                    }
+                },
+                {
+                    "airport_code": "INI",
+                    "estimated_yearly_passengers": 0.357,
+                    "location": {
+                        "longitude": 21.853722,
+                        "latitude": 43.337289
+                    }
+                },
+                {
+                    "airport_code": "KVO",
+                    "estimated_yearly_passengers": 0.014,
+                    "location": {
+                        "longitude": 20.58528,
+                        "latitude": 43.81861
                     }
                 }
             ]
@@ -1262,6 +1304,61 @@
                     "location": {
                         "longitude": 6.712153,
                         "latitude": 0.378175
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Senegal",
+            "airports": [
+                {
+                    "airport_code": "DSS",
+                    "estimated_yearly_passengers": 2.63,
+                    "location": {
+                        "longitude": -17.06694,
+                        "latitude": 14.67111
+                    }
+                },
+                {
+                    "airport_code": "DKR",
+                    "estimated_yearly_passengers": 2.1,
+                    "location": {
+                        "longitude": -17.490389,
+                        "latitude": 14.740142
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Seychelles",
+            "airports": [
+                {
+                    "airport_code": "SEZ",
+                    "estimated_yearly_passengers": 1.19,
+                    "location": {
+                        "longitude": 55.521856,
+                        "latitude": -4.674344
+                    }
+                },
+                {
+                    "airport_code": "PRI",
+                    "estimated_yearly_passengers": 0.1,
+                    "location": {
+                        "longitude": 55.691417,
+                        "latitude": -4.319292
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Sierra Leone",
+            "airports": [
+                {
+                    "airport_code": "FNA",
+                    "estimated_yearly_passengers": 0.317,
+                    "location": {
+                        "longitude": -13.195608,
+                        "latitude": 8.616536
                     }
                 }
             ]
