@@ -473,6 +473,35 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Syria",
+            "airports": [
+                {
+                    "airport_code": "DAM",
+                    "estimated_yearly_passengers": 5.5,
+                    "location": {
+                        "longitude": 36.514267,
+                        "latitude": 33.410636
+                    }
+                },
+                {
+                    "airport_code": "ALP",
+                    "estimated_yearly_passengers": 0.487,
+                    "location": {
+                        "longitude": 37.224358,
+                        "latitude": 36.180675
+                    }
+                },
+                {
+                    "airport_code": "LTK",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 35.948681,
+                        "latitude": 35.401094
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -1708,6 +1737,27 @@
                     "location": {
                         "longitude": -58.254119,
                         "latitude": 6.498553
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Suriname",
+            "airports": [
+                {
+                    "airport_code": "PBM",
+                    "estimated_yearly_passengers": 0.464,
+                    "location": {
+                        "longitude": -55.187783,
+                        "latitude": 5.452831
+                    }
+                },
+                {
+                    "airport_code": "ORG",
+                    "estimated_yearly_passengers": 0.03,
+                    "location": {
+                        "longitude": -55.19028,
+                        "latitude": 5.81111
                     }
                 }
             ]
