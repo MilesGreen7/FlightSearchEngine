@@ -444,6 +444,35 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Sri Lanka",
+            "airports": [
+                {
+                    "airport_code": "CMB",
+                    "estimated_yearly_passengers": 8.5,
+                    "location": {
+                        "longitude": 79.884117,
+                        "latitude": 7.180756
+                    }
+                },
+                {
+                    "airport_code": "JAF",
+                    "estimated_yearly_passengers": 0.2,
+                    "location": {
+                        "longitude": 80.070089,
+                        "latitude": 9.792331
+                    }
+                },
+                {
+                    "airport_code": "HRI",
+                    "estimated_yearly_passengers": 0.026,
+                    "location": {
+                        "longitude": 81.12361,
+                        "latitude": 6.28889
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -1438,6 +1467,40 @@
                     "location": {
                         "longitude": 42.459233,
                         "latitude": -0.377353
+                    }
+                }
+            ]
+        },
+        {
+            "country": "South Sudan",
+            "airports": [
+                {
+                    "airport_code": "JUB",
+                    "estimated_yearly_passengers": 1.2,
+                    "location": {
+                        "longitude": 31.601117,
+                        "latitude": 4.872006
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Sudan",
+            "airports": [
+                {
+                    "airport_code": "KRT",
+                    "estimated_yearly_passengers": 3.6,
+                    "location": {
+                        "longitude": 32.553161,
+                        "latitude": 15.589497
+                    }
+                },
+                {
+                    "airport_code": "PZU",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 37.23417,
+                        "latitude": 19.43361
                     }
                 }
             ]
