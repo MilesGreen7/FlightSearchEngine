@@ -502,6 +502,43 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Tajikistan",
+            "airports": [
+                {
+                    "airport_code": "DYU",
+                    "estimated_yearly_passengers": 2.34,
+                    "location": {
+                        "longitude": 68.824639,
+                        "latitude": 38.543486
+                    }
+                },
+                {
+                    "airport_code": "LBD",
+                    "estimated_yearly_passengers": 0.8,
+                    "location": {
+                        "longitude": 69.694708,
+                        "latitude": 40.215394
+                    }
+                },
+                {
+                    "airport_code": "TJU",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 69.805,
+                        "latitude": 37.98833
+                    }
+                },
+                {
+                    "airport_code": "KQT",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 68.86278,
+                        "latitude": 37.86222
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
