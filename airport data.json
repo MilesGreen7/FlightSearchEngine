@@ -539,6 +539,27 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Timor-Leste",
+            "airports": [
+                {
+                    "airport_code": "DIL",
+                    "estimated_yearly_passengers": 0.275,
+                    "location": {
+                        "longitude": 125.524719,
+                        "latitude": -8.546553
+                    }
+                },
+                {
+                    "airport_code": "OEC",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 124.3407,
+                        "latitude": -9.2015
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
