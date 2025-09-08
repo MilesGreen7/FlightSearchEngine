@@ -560,6 +560,59 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Turkmenistan",
+            "airports": [
+                {
+                    "airport_code": "ASB",
+                    "estimated_yearly_passengers": 1.3,
+                    "location": {
+                        "longitude": 58.360967,
+                        "latitude": 37.986814
+                    }
+                },
+                {
+                    "airport_code": "CRZ",
+                    "estimated_yearly_passengers": 0.23,
+                    "location": {
+                        "longitude": 63.613333,
+                        "latitude": 39.083333
+                    }
+                },
+                {
+                    "airport_code": "KRW",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 53.007222,
+                        "latitude": 40.063333
+                    }
+                },
+                {
+                    "airport_code": "MYP",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 61.896667,
+                        "latitude": 37.619444
+                    }
+                },
+                {
+                    "airport_code": "TAZ",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 59.826667,
+                        "latitude": 41.761111
+                    }
+                },
+                {
+                    "airport_code": "KEA",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 65.1399,
+                        "latitude": 37.8231
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -1591,6 +1644,125 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Togo",
+            "airports": [
+                {
+                    "airport_code": "LFW",
+                    "estimated_yearly_passengers": 1.507,
+                    "location": {
+                        "longitude": 1.2559,
+                        "latitude": 6.1687
+                    }
+                },
+                {
+                    "airport_code": "LRL",
+                    "estimated_yearly_passengers": 0.01,
+                    "location": {
+                        "longitude": 1.092781,
+                        "latitude": 9.769628
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Tunisia",
+            "airports": [
+                {
+                    "airport_code": "TUN",
+                    "estimated_yearly_passengers": 7.25,
+                    "location": {
+                        "longitude": 10.227217,
+                        "latitude": 36.851033
+                    }
+                },
+                {
+                    "airport_code": "DJE",
+                    "estimated_yearly_passengers": 2.204,
+                    "location": {
+                        "longitude": 10.775461,
+                        "latitude": 33.875031
+                    }
+                },
+                {
+                    "airport_code": "MIR",
+                    "estimated_yearly_passengers": 1.63,
+                    "location": {
+                        "longitude": 10.754722,
+                        "latitude": 35.758056
+                    }
+                },
+                {
+                    "airport_code": "NBE",
+                    "estimated_yearly_passengers": 1.29,
+                    "location": {
+                        "longitude": 10.4387,
+                        "latitude": 36.0835
+                    }
+                },
+                {
+                    "airport_code": "SFA",
+                    "estimated_yearly_passengers": 0.157,
+                    "location": {
+                        "longitude": 10.690972,
+                        "latitude": 34.717953
+                    }
+                },
+                {
+                    "airport_code": "TOE",
+                    "estimated_yearly_passengers": 0.032,
+                    "location": {
+                        "longitude": 8.110556,
+                        "latitude": 33.939722
+                    }
+                },
+                {
+                    "airport_code": "TBJ",
+                    "estimated_yearly_passengers": 0.003,
+                    "location": {
+                        "longitude": 8.876944,
+                        "latitude": 36.98
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Uganda",
+            "airports": [
+                {
+                    "airport_code": "EBB",
+                    "estimated_yearly_passengers": 2.243,
+                    "location": {
+                        "longitude": 32.443503,
+                        "latitude": 0.042386
+                    }
+                },
+                {
+                    "airport_code": "RUA",
+                    "estimated_yearly_passengers": 0.03,
+                    "location": {
+                        "longitude": 30.9137,
+                        "latitude": 3.0486
+                    }
+                },
+                {
+                    "airport_code": "ULU",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 32.271792,
+                        "latitude": 2.805556
+                    }
+                },
+                {
+                    "airport_code": "KBA",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 31.42,
+                        "latitude": 1.44
+                    }
+                }
+            ]
         }
     ],
     "North America": [
@@ -1751,6 +1923,27 @@
                     "location": {
                         "longitude": -61.150278,
                         "latitude": 13.156389
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "airports": [
+                {
+                    "airport_code": "POS",
+                    "estimated_yearly_passengers": 1.94,
+                    "location": {
+                        "longitude": -61.337242,
+                        "latitude": 10.595369
+                    }
+                },
+                {
+                    "airport_code": "TAB",
+                    "estimated_yearly_passengers": 0.6,
+                    "location": {
+                        "longitude": -60.832194,
+                        "latitude": 11.149658
                     }
                 }
             ]
@@ -1951,6 +2144,40 @@
                     "location": {
                         "longitude": 156.86417,
                         "latitude": -8.09861
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Tonga",
+            "airports": [
+                {
+                    "airport_code": "TBU",
+                    "estimated_yearly_passengers": 0.213,
+                    "location": {
+                        "longitude": -175.149644,
+                        "latitude": -21.241214
+                    }
+                },
+                {
+                    "airport_code": "VAV",
+                    "estimated_yearly_passengers": 0.062,
+                    "location": {
+                        "longitude": -173.961717,
+                        "latitude": -18.585336
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Tuvalu",
+            "airports": [
+                {
+                    "airport_code": "FUN",
+                    "estimated_yearly_passengers": 0.003,
+                    "location": {
+                        "longitude": 179.1969,
+                        "latitude": -8.5239
                     }
                 }
             ]
