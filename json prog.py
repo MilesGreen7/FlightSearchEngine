@@ -1,5 +1,6 @@
 import json
 import sys
+import pyperclip
 
 continentList = ['North America', 'South America', 'Africa', 'Europe', 'Asia', 'Oceania']
 
@@ -14,6 +15,7 @@ except FileNotFoundError:
 
 
 while data != '':
+	clipBoardStr = ''
 	dataIn = input("\nEnter Continent, Country, code, passengers, longitude, latitude...\n\n")
 	if dataIn == 'q':
 		break
@@ -81,6 +83,7 @@ while data != '':
 			"airports": []
 		}
 		while i < len(dataIn):
+			clipBoardStr += dataIn[i] + ','
 			new_country["airports"].append(
 				{
 					"airport_code": dataIn[i],
@@ -93,6 +96,8 @@ while data != '':
 			)
 			i += 4
 
+		clipBoardStr = clipBoardStr[:-1]
+
 	elif len(dataIn) == 3 and dataIn[2] == '[]':
 		new_country = {
 			"country": dataIn[1],
@@ -104,5 +109,6 @@ while data != '':
 
 	if new_country != '':
 		data[dataIn[0]].append(new_country)
+		pyperclip.copy(clipBoardStr)
 		with open(json_file, "w") as f:
 			json.dump(data, f, indent=4)
