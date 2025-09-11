@@ -613,6 +613,67 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "United Arab Emirates",
+            "airports": [
+                {
+                    "airport_code": "DXB",
+                    "estimated_yearly_passengers": 92.3,
+                    "location": {
+                        "longitude": 55.364444,
+                        "latitude": 25.252778
+                    }
+                },
+                {
+                    "airport_code": "AUH",
+                    "estimated_yearly_passengers": 29.5,
+                    "location": {
+                        "longitude": 54.651138,
+                        "latitude": 24.432972
+                    }
+                },
+                {
+                    "airport_code": "SHJ",
+                    "estimated_yearly_passengers": 15.3,
+                    "location": {
+                        "longitude": 55.51715,
+                        "latitude": 25.328575
+                    }
+                },
+                {
+                    "airport_code": "RKT",
+                    "estimated_yearly_passengers": 0.64,
+                    "location": {
+                        "longitude": 55.938817,
+                        "latitude": 25.613483
+                    }
+                },
+                {
+                    "airport_code": "FJR",
+                    "estimated_yearly_passengers": 0.061,
+                    "location": {
+                        "longitude": 56.330556,
+                        "latitude": 25.109722
+                    }
+                },
+                {
+                    "airport_code": "AAN",
+                    "estimated_yearly_passengers": 0.1,
+                    "location": {
+                        "longitude": 55.609167,
+                        "latitude": 24.261667
+                    }
+                },
+                {
+                    "airport_code": "DWC",
+                    "estimated_yearly_passengers": 1.1,
+                    "location": {
+                        "longitude": 55.1588,
+                        "latitude": 24.886
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
