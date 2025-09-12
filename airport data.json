@@ -674,6 +674,112 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Uzbekistan",
+            "airports": [
+                {
+                    "airport_code": "TAS",
+                    "estimated_yearly_passengers": 8.7,
+                    "location": {
+                        "longitude": 69.280805,
+                        "latitude": 41.258378
+                    }
+                },
+                {
+                    "airport_code": "SKD",
+                    "estimated_yearly_passengers": 1.38,
+                    "location": {
+                        "longitude": 66.984107,
+                        "latitude": 39.699991
+                    }
+                },
+                {
+                    "airport_code": "NMA",
+                    "estimated_yearly_passengers": 0.76,
+                    "location": {
+                        "longitude": 71.55667,
+                        "latitude": 40.98444
+                    }
+                },
+                {
+                    "airport_code": "FEG",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 71.745,
+                        "latitude": 40.35889
+                    }
+                },
+                {
+                    "airport_code": "NCU",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 59.62333,
+                        "latitude": 42.48833
+                    }
+                },
+                {
+                    "airport_code": "UGC",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 60.640726,
+                        "latitude": 41.584252
+                    }
+                },
+                {
+                    "airport_code": "TMJ",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 67.309143,
+                        "latitude": 37.286605
+                    }
+                },
+                {
+                    "airport_code": "AZN",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 72.29389,
+                        "latitude": 40.72778
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Yemen",
+            "airports": [
+                {
+                    "airport_code": "SAH",
+                    "estimated_yearly_passengers": 1.9,
+                    "location": {
+                        "longitude": 44.219739,
+                        "latitude": 15.476258
+                    }
+                },
+                {
+                    "airport_code": "ADE",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 45.028792,
+                        "latitude": 12.829542
+                    }
+                },
+                {
+                    "airport_code": "GXF",
+                    "estimated_yearly_passengers": 0.004,
+                    "location": {
+                        "longitude": 48.7883,
+                        "latitude": 15.966111
+                    }
+                },
+                {
+                    "airport_code": "AAY",
+                    "estimated_yearly_passengers": 0.001,
+                    "location": {
+                        "longitude": 52.175,
+                        "latitude": 16.191667
+                    }
+                }
+            ]
         }
     ],
     "Europe": [
@@ -974,6 +1080,10 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Vatican City",
+            "airports": []
         }
     ],
     "Africa": [
@@ -1824,6 +1934,72 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Zambia",
+            "airports": [
+                {
+                    "airport_code": "LUN",
+                    "estimated_yearly_passengers": 1.524,
+                    "location": {
+                        "longitude": 28.452628,
+                        "latitude": -15.330817
+                    }
+                },
+                {
+                    "airport_code": "NLA",
+                    "estimated_yearly_passengers": 0.267,
+                    "location": {
+                        "longitude": 28.664944,
+                        "latitude": -12.998139
+                    }
+                },
+                {
+                    "airport_code": "LVI",
+                    "estimated_yearly_passengers": 0.165,
+                    "location": {
+                        "longitude": 25.822692,
+                        "latitude": -17.821756
+                    }
+                },
+                {
+                    "airport_code": "MFU",
+                    "estimated_yearly_passengers": 0.041,
+                    "location": {
+                        "longitude": 31.936581,
+                        "latitude": -13.258878
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Zimbabwe",
+            "airports": [
+                {
+                    "airport_code": "HRE",
+                    "estimated_yearly_passengers": 1.157,
+                    "location": {
+                        "longitude": 31.092847,
+                        "latitude": -17.931806
+                    }
+                },
+                {
+                    "airport_code": "VFA",
+                    "estimated_yearly_passengers": 0.235,
+                    "location": {
+                        "longitude": 25.839006,
+                        "latitude": -18.095881
+                    }
+                },
+                {
+                    "airport_code": "BUQ",
+                    "estimated_yearly_passengers": 0.147,
+                    "location": {
+                        "longitude": 28.617869,
+                        "latitude": -20.017431
+                    }
+                }
+            ]
         }
     ],
     "North America": [
@@ -2073,6 +2249,64 @@
                     }
                 }
             ]
+        },
+        {
+            "country": "Uruguay",
+            "airports": [
+                {
+                    "airport_code": "MVD",
+                    "estimated_yearly_passengers": 2.0,
+                    "location": {
+                        "longitude": -56.031377,
+                        "latitude": -34.838537
+                    }
+                },
+                {
+                    "airport_code": "PDP",
+                    "estimated_yearly_passengers": 0.159,
+                    "location": {
+                        "longitude": -55.098,
+                        "latitude": -34.8609
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Venezuela",
+            "airports": [
+                {
+                    "airport_code": "CCS",
+                    "estimated_yearly_passengers": 4.0,
+                    "location": {
+                        "longitude": -66.990583,
+                        "latitude": 10.603117
+                    }
+                },
+                {
+                    "airport_code": "MAR",
+                    "estimated_yearly_passengers": 0.4,
+                    "location": {
+                        "longitude": -71.727856,
+                        "latitude": 10.558208
+                    }
+                },
+                {
+                    "airport_code": "LSP",
+                    "estimated_yearly_passengers": 0.3,
+                    "location": {
+                        "longitude": -70.151497,
+                        "latitude": 11.780775
+                    }
+                },
+                {
+                    "airport_code": "BLA",
+                    "estimated_yearly_passengers": 0.2,
+                    "location": {
+                        "longitude": -64.689161,
+                        "latitude": 10.107139
+                    }
+                }
+            ]
         }
     ],
     "Oceania": [
@@ -2239,6 +2473,35 @@
                     "location": {
                         "longitude": 179.1969,
                         "latitude": -8.5239
+                    }
+                }
+            ]
+        },
+        {
+            "country": "Vanuatu",
+            "airports": [
+                {
+                    "airport_code": "VLI",
+                    "estimated_yearly_passengers": 0.515,
+                    "location": {
+                        "longitude": 168.319794,
+                        "latitude": -17.699325
+                    }
+                },
+                {
+                    "airport_code": "SON",
+                    "estimated_yearly_passengers": 0.132,
+                    "location": {
+                        "longitude": 167.219742,
+                        "latitude": -15.505033
+                    }
+                },
+                {
+                    "airport_code": "TAH",
+                    "estimated_yearly_passengers": 0.068,
+                    "location": {
+                        "longitude": 169.223928,
+                        "latitude": -19.455103
                     }
                 }
             ]
