@@ -1,5 +1,290 @@
 {
-    "Africa": [],
+    "Africa": [
+        {
+            "country": "Algeria",
+            "airports": [
+                {
+                    "airport_code": "ALG",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 9.151517,
+                    "location": {
+                        "longitude": 3.2154,
+                        "latitude": 36.691
+                    }
+                },
+                {
+                    "airport_code": "ORN",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 1.4702279999999999,
+                    "location": {
+                        "longitude": -0.6212,
+                        "latitude": 35.6239
+                    }
+                },
+                {
+                    "airport_code": "CZL",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 1.0924909999999999,
+                    "location": {
+                        "longitude": 6.6204,
+                        "latitude": 36.276
+                    }
+                },
+                {
+                    "airport_code": "AAE",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.515481,
+                    "location": {
+                        "longitude": 7.8092,
+                        "latitude": 36.8222
+                    }
+                },
+                {
+                    "airport_code": "BJA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.205312,
+                    "location": {
+                        "longitude": 5.0697,
+                        "latitude": 36.7111
+                    }
+                },
+                {
+                    "airport_code": "QSF",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.20057799999999998,
+                    "location": {
+                        "longitude": 5.3245,
+                        "latitude": 36.1781
+                    }
+                },
+                {
+                    "airport_code": "TLM",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.211092,
+                    "location": {
+                        "longitude": -1.45,
+                        "latitude": 35.0174
+                    }
+                },
+                {
+                    "airport_code": "TMX",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.063493,
+                    "location": {
+                        "longitude": 0.276,
+                        "latitude": 29.2371
+                    }
+                },
+                {
+                    "airport_code": "GHA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.045022,
+                    "location": {
+                        "longitude": 3.7941,
+                        "latitude": 32.3841
+                    }
+                },
+                {
+                    "airport_code": "BMW",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.08809199999999999,
+                    "location": {
+                        "longitude": 0.9239,
+                        "latitude": 21.375
+                    }
+                },
+                {
+                    "airport_code": "ELU",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.022098,
+                    "location": {
+                        "longitude": 6.7768,
+                        "latitude": 33.5114
+                    }
+                },
+                {
+                    "airport_code": "BLJ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.078285,
+                    "location": {
+                        "longitude": 6.3086,
+                        "latitude": 35.7522
+                    }
+                },
+                {
+                    "airport_code": "BSK",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.136718,
+                    "location": {
+                        "longitude": 5.7382,
+                        "latitude": 34.7933
+                    }
+                },
+                {
+                    "airport_code": "HME",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 6.1404,
+                        "latitude": 31.673
+                    }
+                },
+                {
+                    "airport_code": "OGX",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 5.4128,
+                        "latitude": 31.9172
+                    }
+                },
+                {
+                    "airport_code": "CBH",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -2.2699,
+                        "latitude": 31.6457
+                    }
+                },
+                {
+                    "airport_code": "AZR",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -0.1864,
+                        "latitude": 27.8376
+                    }
+                },
+                {
+                    "airport_code": "TMR",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 5.4511,
+                        "latitude": 22.8115
+                    }
+                },
+                {
+                    "airport_code": "DJG",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 9.4524,
+                        "latitude": 24.2928
+                    }
+                },
+                {
+                    "airport_code": "TEE",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 8.12,
+                        "latitude": 35.4316
+                    }
+                },
+                {
+                    "airport_code": "INZ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 2.512,
+                        "latitude": 27.251
+                    }
+                },
+                {
+                    "airport_code": "IAM",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 9.6429,
+                        "latitude": 28.0515
+                    }
+                },
+                {
+                    "airport_code": "TIN",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -8.1671,
+                        "latitude": 27.7004
+                    }
+                },
+                {
+                    "airport_code": "TID",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 1.4631,
+                        "latitude": 35.3414
+                    }
+                },
+                {
+                    "airport_code": "TGR",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.010884,
+                    "location": {
+                        "longitude": 6.0887,
+                        "latitude": 33.0678
+                    }
+                },
+                {
+                    "airport_code": "VVZ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 8.6227,
+                        "latitude": 26.7235
+                    }
+                },
+                {
+                    "airport_code": "ELG",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 2.8596,
+                        "latitude": 30.5713
+                    }
+                },
+                {
+                    "airport_code": "EBH",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 1.0926,
+                        "latitude": 33.7217
+                    }
+                },
+                {
+                    "airport_code": "BUJ",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 4.2064,
+                        "latitude": 35.3325
+                    }
+                },
+                {
+                    "airport_code": "INF",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 5.75,
+                        "latitude": 19.568
+                    }
+                },
+                {
+                    "airport_code": "MUW",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 0.1471,
+                        "latitude": 35.2081
+                    }
+                }
+            ]
+        }
+    ],
     "Europe": [],
     "North America": [],
     "South America": [],
