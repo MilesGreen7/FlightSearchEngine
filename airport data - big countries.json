@@ -287,7 +287,481 @@
     ],
     "Europe": [],
     "North America": [],
-    "South America": [],
+    "South America": [
+        {
+            "country": "Argentina",
+            "airports": [
+                {
+                    "airport_code": "AEP",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 6.983,
+                    "location": {
+                        "longitude": -58.41583,
+                        "latitude": -34.55917
+                    }
+                },
+                {
+                    "airport_code": "EZE",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 11.077,
+                    "location": {
+                        "longitude": -58.53583,
+                        "latitude": -34.82222
+                    }
+                },
+                {
+                    "airport_code": "EPA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -58.6125,
+                        "latitude": -34.60972
+                    }
+                },
+                {
+                    "airport_code": "COR",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 1.396,
+                    "location": {
+                        "longitude": -64.20778,
+                        "latitude": -31.32361
+                    }
+                },
+                {
+                    "airport_code": "COC",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -57.99639,
+                        "latitude": -31.29694
+                    }
+                },
+                {
+                    "airport_code": "CRD",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.25,
+                    "location": {
+                        "longitude": -67.46528,
+                        "latitude": -45.78528
+                    }
+                },
+                {
+                    "airport_code": "CTC",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -65.75083,
+                        "latitude": -28.59306
+                    }
+                },
+                {
+                    "airport_code": "BRC",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.988,
+                    "location": {
+                        "longitude": -71.1575,
+                        "latitude": -41.15111
+                    }
+                },
+                {
+                    "airport_code": "FTE",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.471,
+                    "location": {
+                        "longitude": -72.05306,
+                        "latitude": -50.28028
+                    }
+                },
+                {
+                    "airport_code": "FMA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -58.22806,
+                        "latitude": -26.2125
+                    }
+                },
+                {
+                    "airport_code": "ELO",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -54.57472,
+                        "latitude": -26.39778
+                    }
+                },
+                {
+                    "airport_code": "EQS",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -71.13944,
+                        "latitude": -42.90778
+                    }
+                },
+                {
+                    "airport_code": "CNQ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -58.76278,
+                        "latitude": -27.44528
+                    }
+                },
+                {
+                    "airport_code": "IGR",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.6719999999999999,
+                    "location": {
+                        "longitude": -54.52556,
+                        "latitude": -25.59778
+                    }
+                },
+                {
+                    "airport_code": "IGB",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -69.575,
+                        "latitude": -41.3225
+                    }
+                },
+                {
+                    "airport_code": "MDQ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.16999999999999998,
+                    "location": {
+                        "longitude": -57.57333,
+                        "latitude": -37.93417
+                    }
+                },
+                {
+                    "airport_code": "REL",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -65.30972,
+                        "latitude": -43.24833
+                    }
+                },
+                {
+                    "airport_code": "EHL",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -71.53222,
+                        "latitude": -41.94306
+                    }
+                },
+                {
+                    "airport_code": "LGS",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -69.57833,
+                        "latitude": -35.49333
+                    }
+                },
+                {
+                    "airport_code": "LGS",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -69.57833,
+                        "latitude": -35.49333
+                    }
+                },
+                {
+                    "airport_code": "RES",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -59.05389,
+                        "latitude": -27.44972
+                    }
+                },
+                {
+                    "airport_code": "SFN",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -60.95417,
+                        "latitude": -31.705
+                    }
+                },
+                {
+                    "airport_code": "APZ",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -58.78944,
+                        "latitude": -34.56056
+                    }
+                },
+                {
+                    "airport_code": "FDO",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -58.5906,
+                        "latitude": -34.452
+                    }
+                },
+                {
+                    "airport_code": "RGA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -67.74917,
+                        "latitude": -53.77778
+                    }
+                },
+                {
+                    "airport_code": "RGL",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -69.28528,
+                        "latitude": -51.61111
+                    }
+                },
+                {
+                    "airport_code": "USH",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.5559999999999999,
+                    "location": {
+                        "longitude": -68.295,
+                        "latitude": -54.84306
+                    }
+                },
+                {
+                    "airport_code": "JUJ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.267,
+                    "location": {
+                        "longitude": -65.08944,
+                        "latitude": -24.44083
+                    }
+                },
+                {
+                    "airport_code": "TUC",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.354,
+                    "location": {
+                        "longitude": -65.10417,
+                        "latitude": -26.83639
+                    }
+                },
+                {
+                    "airport_code": "PSS",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.16499999999999998,
+                    "location": {
+                        "longitude": -55.96806,
+                        "latitude": -27.38667
+                    }
+                },
+                {
+                    "airport_code": "ROS",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.214,
+                    "location": {
+                        "longitude": -60.785,
+                        "latitude": -32.90361
+                    }
+                },
+                {
+                    "airport_code": "GPO",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -63.75778,
+                        "latitude": -35.695
+                    }
+                },
+                {
+                    "airport_code": "AFA",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -68.40278,
+                        "latitude": -34.61139
+                    }
+                },
+                {
+                    "airport_code": "BRC",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.988,
+                    "location": {
+                        "longitude": -71.1575,
+                        "latitude": -41.15111
+                    }
+                },
+                {
+                    "airport_code": "CPC",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -71.13722,
+                        "latitude": -40.07806
+                    }
+                },
+                {
+                    "airport_code": "RSA",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -64.2839,
+                        "latitude": -36.587
+                    }
+                },
+                {
+                    "airport_code": "VDM",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -63.00583,
+                        "latitude": -40.69972
+                    }
+                },
+                {
+                    "airport_code": "GNR",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -67.61917,
+                        "latitude": -39.00056
+                    }
+                },
+                {
+                    "airport_code": "BHI",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -62.20111,
+                        "latitude": -38.71111
+                    }
+                },
+                {
+                    "airport_code": "CNQ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -58.76278,
+                        "latitude": -27.44528
+                    }
+                },
+                {
+                    "airport_code": "HOS",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -70.22222,
+                        "latitude": -37.44472
+                    }
+                },
+                {
+                    "airport_code": "CUT",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -69.26444,
+                        "latitude": -38.93944
+                    }
+                },
+                {
+                    "airport_code": "OES",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -65.03417,
+                        "latitude": -40.75111
+                    }
+                },
+                {
+                    "airport_code": "RDS",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -68.90583,
+                        "latitude": -37.39056
+                    }
+                },
+                {
+                    "airport_code": "RYO",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -72.21972,
+                        "latitude": -51.60028
+                    }
+                },
+                {
+                    "airport_code": "PMQ",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -70.97306,
+                        "latitude": -46.5875
+                    }
+                },
+                {
+                    "airport_code": "PMY",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -65.10278,
+                        "latitude": -42.75972
+                    }
+                },
+                {
+                    "airport_code": "FTE",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -72.24861,
+                        "latitude": -50.33556
+                    }
+                },
+                {
+                    "airport_code": "LHS",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -68.96528,
+                        "latitude": -46.53944
+                    }
+                },
+                {
+                    "airport_code": "GGS",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -70.14806,
+                        "latitude": -48.78278
+                    }
+                },
+                {
+                    "airport_code": "RGA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -67.74917,
+                        "latitude": -53.77778
+                    }
+                },
+                {
+                    "airport_code": "NCJ",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": -61.526,
+                        "latitude": -29.957
+                    }
+                }
+            ]
+        }
+    ],
     "Asia": [],
     "Oceania": []
 }
