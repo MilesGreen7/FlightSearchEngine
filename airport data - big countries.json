@@ -463,15 +463,6 @@
                     }
                 },
                 {
-                    "airport_code": "LGS",
-                    "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.0,
-                    "location": {
-                        "longitude": -69.57833,
-                        "latitude": -35.49333
-                    }
-                },
-                {
                     "airport_code": "RES",
                     "international/domestic": "international",
                     "estimated_yearly_passengers": 0.0,
@@ -589,15 +580,6 @@
                     }
                 },
                 {
-                    "airport_code": "BRC",
-                    "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.988,
-                    "location": {
-                        "longitude": -71.1575,
-                        "latitude": -41.15111
-                    }
-                },
-                {
                     "airport_code": "CPC",
                     "international/domestic": "domestic",
                     "estimated_yearly_passengers": 0.0,
@@ -640,15 +622,6 @@
                     "location": {
                         "longitude": -62.20111,
                         "latitude": -38.71111
-                    }
-                },
-                {
-                    "airport_code": "CNQ",
-                    "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.0,
-                    "location": {
-                        "longitude": -58.76278,
-                        "latitude": -27.44528
                     }
                 },
                 {
@@ -715,15 +688,6 @@
                     }
                 },
                 {
-                    "airport_code": "FTE",
-                    "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.0,
-                    "location": {
-                        "longitude": -72.24861,
-                        "latitude": -50.33556
-                    }
-                },
-                {
                     "airport_code": "LHS",
                     "international/domestic": "domestic",
                     "estimated_yearly_passengers": 0.0,
@@ -742,21 +706,39 @@
                     }
                 },
                 {
-                    "airport_code": "RGA",
-                    "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.0,
-                    "location": {
-                        "longitude": -67.74917,
-                        "latitude": -53.77778
-                    }
-                },
-                {
                     "airport_code": "NCJ",
                     "international/domestic": "domestic",
                     "estimated_yearly_passengers": 0.0,
                     "location": {
                         "longitude": -61.526,
                         "latitude": -29.957
+                    }
+                },
+                {
+                    "airport_code": "MDZ",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 2.404,
+                    "location": {
+                        "longitude": -68.792856,
+                        "latitude": -32.831717
+                    }
+                },
+                {
+                    "airport_code": "SLA",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 1.46,
+                    "location": {
+                        "longitude": -65.486169,
+                        "latitude": -24.855978
+                    }
+                },
+                {
+                    "airport_code": "NQN",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 1.126,
+                    "location": {
+                        "longitude": -68.155711,
+                        "latitude": -38.949
                     }
                 }
             ]
