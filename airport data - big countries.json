@@ -281,6 +281,24 @@
                         "longitude": 0.1471,
                         "latitude": 35.2081
                     }
+                },
+                {
+                    "airport_code": "CFK",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.051088,
+                    "location": {
+                        "longitude": 1.3247,
+                        "latitude": 36.2174
+                    }
+                },
+                {
+                    "airport_code": "GJL",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.043573,
+                    "location": {
+                        "longitude": 5.873608,
+                        "latitude": 36.795136
+                    }
                 }
             ]
         }
