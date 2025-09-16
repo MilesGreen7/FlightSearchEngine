@@ -762,6 +762,39 @@
             ]
         }
     ],
-    "Asia": [],
+    "Asia": [
+        {
+            "country": "Armenia",
+            "airports": [
+                {
+                    "airport_code": "EVN",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 5.248348,
+                    "location": {
+                        "longitude": 44.3958,
+                        "latitude": 40.1475
+                    }
+                },
+                {
+                    "airport_code": "LWN",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.122139,
+                    "location": {
+                        "longitude": 43.85917,
+                        "latitude": 40.75028
+                    }
+                },
+                {
+                    "airport_code": "YUK",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.0,
+                    "location": {
+                        "longitude": 46.455,
+                        "latitude": 39.202
+                    }
+                }
+            ]
+        }
+    ],
     "Oceania": []
 }
