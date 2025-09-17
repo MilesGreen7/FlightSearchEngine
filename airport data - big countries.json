@@ -123,7 +123,7 @@
                 {
                     "airport_code": "HME",
                     "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.0,
+                    "estimated_yearly_passengers": 0.565656,
                     "location": {
                         "longitude": 6.1404,
                         "latitude": 31.673
@@ -132,7 +132,7 @@
                 {
                     "airport_code": "OGX",
                     "international/domestic": "international",
-                    "estimated_yearly_passengers": 0.0,
+                    "estimated_yearly_passengers": 0.037675,
                     "location": {
                         "longitude": 5.4128,
                         "latitude": 31.9172
