@@ -13,12 +13,30 @@
                     }
                 },
                 {
+                    "airport_code": "LOO",
+                    "international/domestic": "international",
+                    "estimated_yearly_passengers": 0.002601,
+                    "location": {
+                        "longitude": 2.928344,
+                        "latitude": 33.764383
+                    }
+                },
+                {
                     "airport_code": "ORN",
                     "international/domestic": "international",
                     "estimated_yearly_passengers": 1.4702279999999999,
                     "location": {
                         "longitude": -0.6212,
                         "latitude": 35.6239
+                    }
+                },
+                {
+                    "airport_code": "HRM",
+                    "international/domestic": "domestic",
+                    "estimated_yearly_passengers": 0.025147,
+                    "location": {
+                        "longitude": 3.311542,
+                        "latitude": 32.930431
                     }
                 },
                 {
